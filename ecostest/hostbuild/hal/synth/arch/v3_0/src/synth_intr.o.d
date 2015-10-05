@@ -1,0 +1,30 @@
+src/synth_intr.o.d: \
+ /opt/ecos/ecos-3.0/packages/hal/synth/arch/v3_0/src/synth_intr.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/hostbuild/install/include/pkgconf/hal.h \
+ /home/kelvin/hostbuild/install/include/pkgconf/system.h \
+ /home/kelvin/hostbuild/install/include/pkgconf/hal_synth.h \
+ /home/kelvin/hostbuild/install/include/pkgconf/hal_synth_i386.h \
+ /home/kelvin/hostbuild/install/include/pkgconf/kernel.h \
+ /home/kelvin/hostbuild/install/include/pkgconf/infra.h \
+ /home/kelvin/hostbuild/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/hostbuild/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/hostbuild/install/include/cyg/hal/basetype.h \
+ /home/kelvin/hostbuild/install/include/cyg/infra/diag.h \
+ /home/kelvin/hostbuild/install/include/stdarg.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stdarg.h \
+ /home/kelvin/hostbuild/install/include/cyg/hal/hal_arch.h \
+ /home/kelvin/hostbuild/install/include/cyg/hal/var_arch.h \
+ /home/kelvin/hostbuild/install/include/cyg/hal/hal_intr.h \
+ /home/kelvin/hostbuild/install/include/cyg/hal/drv_api.h \
+ /home/kelvin/hostbuild/install/include/cyg/kernel/kapi.h \
+ /home/kelvin/hostbuild/install/include/cyg/memalloc/kapi.h \
+ /home/kelvin/hostbuild/install/include/pkgconf/memalloc.h \
+ /home/kelvin/hostbuild/install/include/cyg/kernel/kapidata.h \
+ /home/kelvin/hostbuild/install/include/cyg/memalloc/kapidata.h \
+ /home/kelvin/hostbuild/install/include/cyg/hal/var_intr.h \
+ /home/kelvin/hostbuild/install/include/cyg/hal/hal_io.h \
+ /home/kelvin/hostbuild/install/include/cyg/hal/var_io.h \
+ /home/kelvin/hostbuild/install/include/cyg/infra/cyg_ass.h \
+ /opt/ecos/ecos-3.0/packages/hal/synth/arch/v3_0/src/synth_protocol.h

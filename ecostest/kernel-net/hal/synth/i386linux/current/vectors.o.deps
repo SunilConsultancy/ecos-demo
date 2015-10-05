@@ -1,0 +1,3 @@
+/home/kelvin/kernel-net/install/lib/vectors.o : \
+ /usr/include/stdc-predef.h
+

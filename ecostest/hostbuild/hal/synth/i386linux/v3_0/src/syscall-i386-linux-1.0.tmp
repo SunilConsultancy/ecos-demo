@@ -1,0 +1,3 @@
+syscall-i386-linux-1.0.o: \
+ /opt/ecos/ecos-3.0/packages/hal/synth/i386linux/v3_0/src/syscall-i386-linux-1.0.S \
+ /usr/include/stdc-predef.h

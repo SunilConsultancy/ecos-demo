@@ -1,0 +1,2340 @@
+src/misc/matherr.o.d: /opt/ecos/packages/language/c/libm/current/src/misc/matherr.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_trac.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/infra.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_ass.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h
+src/misc/standard.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/misc/standard.c \
+ /usr/include/stdc-predef.h \
+ /opt/ecos/packages/language/c/libm/current/src/misc/standard.inl \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_trac.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/infra.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_ass.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/error/codes.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/error.h \
+ /home/kelvin/kernel-net/install/include/errno.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/isoinfra.h \
+ /home/kelvin/kernel-net/install/include/cyg/error/errno.h
+src/misc/standard_float.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/misc/standard_float.c \
+ /usr/include/stdc-predef.h \
+ /opt/ecos/packages/language/c/libm/current/src/misc/standard.inl \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_trac.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/infra.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_ass.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/error/codes.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/error.h \
+ /home/kelvin/kernel-net/install/include/errno.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/isoinfra.h \
+ /home/kelvin/kernel-net/install/include/cyg/error/errno.h
+src/misc/compatmode.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/misc/compatmode.cxx \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_trac.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/infra.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_ass.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/misc/infconst.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/misc/infconst.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_acos.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-core/e_acos.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_asin.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-core/e_asin.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_atan2.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-core/e_atan2.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_cosh.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-core/e_cosh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_exp.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-core/e_exp.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_fmod.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-core/e_fmod.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_log.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-core/e_log.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_log10.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-core/e_log10.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_pow.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-core/e_pow.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_rem_pio2.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-core/e_rem_pio2.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_scalb.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-core/e_scalb.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_sinh.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-core/e_sinh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_sqrt.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-core/e_sqrt.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_hypot.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-core/e_hypot.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_acos.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-api/w_acos.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_asin.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-api/w_asin.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_atan2.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-api/w_atan2.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_cosh.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-api/w_cosh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_exp.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-api/w_exp.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_fmod.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-api/w_fmod.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_log.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-api/w_log.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_log10.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-api/w_log10.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_pow.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-api/w_pow.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_scalb.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-api/w_scalb.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /home/kelvin/kernel-net/install/include/errno.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/isoinfra.h \
+ /home/kelvin/kernel-net/install/include/cyg/error/codes.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/error.h \
+ /home/kelvin/kernel-net/install/include/cyg/error/errno.h
+src/double/ieee754-api/w_sinh.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-api/w_sinh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_sqrt.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-api/w_sqrt.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_hypot.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-api/w_hypot.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_gamma.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-core/e_gamma.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h
+src/double/ieee754-api/w_gamma.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-api/w_gamma.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h
+src/double/ieee754-core/e_gamma_r.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-core/e_gamma_r.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_gamma_r.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-api/w_gamma_r.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-core/e_lgamma.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-core/e_lgamma.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h
+src/double/ieee754-api/w_lgamma.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-api/w_lgamma.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h
+src/double/ieee754-core/e_lgamma_r.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-core/e_lgamma_r.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/ieee754-api/w_lgamma_r.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/ieee754-api/w_lgamma_r.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/internal/k_cos.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/internal/k_cos.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/internal/k_rem_pio2.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/internal/k_rem_pio2.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/internal/k_sin.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/internal/k_sin.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/internal/k_tan.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/internal/k_tan.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/internal/kf_cos.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/internal/kf_cos.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/internal/kf_sin.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/internal/kf_sin.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/internal/kf_rem_pio2.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/internal/kf_rem_pio2.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/internal/kf_tan.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/internal/kf_tan.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/portable-api/s_atan.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/portable-api/s_atan.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/portable-api/s_ceil.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/portable-api/s_ceil.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/portable-api/s_copysign.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/portable-api/s_copysign.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/portable-api/s_cos.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/portable-api/s_cos.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/portable-api/s_expm1.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/portable-api/s_expm1.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/portable-api/s_fabs.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/portable-api/s_fabs.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/portable-api/s_finite.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/portable-api/s_finite.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/portable-api/s_floor.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/portable-api/s_floor.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/portable-api/s_frexp.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/portable-api/s_frexp.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/portable-api/s_isnan.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/portable-api/s_isnan.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/portable-api/s_ldexp.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/portable-api/s_ldexp.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/portable-api/s_rint.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/portable-api/s_rint.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/portable-api/s_scalbn.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/portable-api/s_scalbn.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/portable-api/s_sin.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/portable-api/s_sin.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/portable-api/s_tan.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/portable-api/s_tan.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/portable-api/s_modf.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/portable-api/s_modf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/double/portable-api/s_tanh.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/double/portable-api/s_tanh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-core/ef_rem_pio2.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_rem_pio2.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-core/ef_sqrt.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_sqrt.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-api/wf_sqrt.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-api/wf_sqrt.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-core/ef_pow.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_pow.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-api/wf_pow.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-api/wf_pow.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-core/ef_exp.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_exp.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-api/wf_exp.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-api/wf_exp.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-core/ef_asin.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_asin.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-api/wf_asin.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-api/wf_asin.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-core/ef_log.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_log.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-api/wf_log.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-api/wf_log.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-core/ef_log10.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_log10.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-api/wf_log10.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-api/wf_log10.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-core/ef_hypot.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_hypot.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-api/wf_hypot.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-api/wf_hypot.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-core/ef_fmod.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_fmod.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-api/wf_fmod.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-api/wf_fmod.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-core/ef_remainder.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_remainder.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-api/wf_remainder.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-api/wf_remainder.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-core/ef_scalb.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_scalb.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-api/wf_scalb.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-api/wf_scalb.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /home/kelvin/kernel-net/install/include/errno.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/isoinfra.h \
+ /home/kelvin/kernel-net/install/include/cyg/error/codes.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/error.h \
+ /home/kelvin/kernel-net/install/include/cyg/error/errno.h
+src/float/ieee754-core/ef_acos.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_acos.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-api/wf_acos.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-api/wf_acos.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-core/ef_atan2.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_atan2.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-api/wf_atan2.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-api/wf_atan2.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-core/ef_acosh.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_acosh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-api/wf_acosh.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-api/wf_acosh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-core/ef_atanh.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_atanh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-api/wf_atanh.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-api/wf_atanh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-core/ef_cosh.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_cosh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-api/wf_cosh.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-api/wf_cosh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-core/ef_j0.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_j0.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-api/wf_j0.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-api/wf_j0.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-core/ef_j1.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_j1.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-api/wf_j1.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-api/wf_j1.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-core/ef_jn.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_jn.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-api/wf_jn.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-api/wf_jn.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-core/ef_sinh.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-core/ef_sinh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/ieee754-api/wf_sinh.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/ieee754-api/wf_sinh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_asinh.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_asinh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_ilogb.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_ilogb.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/limits.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/isoinfra.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include-fixed/limits.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_copysign.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_copysign.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_sin.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_sin.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_finite.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_finite.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_erf.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_erf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_isnan.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_isnan.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_floor.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_floor.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_modf.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_modf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_atan.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_atan.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_ldexp.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_ldexp.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /home/kelvin/kernel-net/install/include/errno.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/isoinfra.h \
+ /home/kelvin/kernel-net/install/include/cyg/error/codes.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/error.h \
+ /home/kelvin/kernel-net/install/include/cyg/error/errno.h
+src/float/portable-api/sf_nextafter.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_nextafter.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_tan.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_tan.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_cbrt.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_cbrt.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_expm1.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_expm1.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_frexp.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_frexp.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_log1p.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_log1p.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_rint.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_rint.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_tanh.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_tanh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_ceil.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_ceil.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_fabs.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_fabs.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_logb.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_logb.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_scalbn.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_scalbn.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_cos.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_cos.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/float/portable-api/sf_significand.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/float/portable-api/sf_significand.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /opt/ecos/packages/language/c/libm/current/src/mathincl/fdlibm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/cabs.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/cabs.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/cabsf.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/cabsf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/carg.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/carg.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/cargf.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/cargf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/creal.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/creal.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h
+src/complex/crealf.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/crealf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h
+src/complex/cimag.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/cimag.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h
+src/complex/cimagf.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/cimagf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h
+src/complex/conj.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/conj.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h
+src/complex/conjf.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/conjf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h
+src/complex/cacos.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/cacos.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/cacosf.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/cacosf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/cacosh.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/cacosh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h
+src/complex/cacoshf.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/complex/cacoshf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h
+src/complex/casin.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/casin.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/casinf.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/casinf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/casinh.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/casinh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h
+src/complex/casinhf.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/complex/casinhf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h
+src/complex/catan.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/catan.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /opt/ecos/packages/language/c/libm/current/src/complex/cephes_subr.h
+src/complex/catanf.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/catanf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /opt/ecos/packages/language/c/libm/current/src/complex/cephes_subrf.h
+src/complex/catanh.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/catanh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h
+src/complex/catanhf.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/complex/catanhf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h
+src/complex/ccos.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/ccos.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /opt/ecos/packages/language/c/libm/current/src/complex/cephes_subr.h
+src/complex/ccosf.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/ccosf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /opt/ecos/packages/language/c/libm/current/src/complex/cephes_subrf.h
+src/complex/ccosh.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/ccosh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/ccoshf.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/ccoshf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/cephes_subr.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/complex/cephes_subr.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /opt/ecos/packages/language/c/libm/current/src/complex/cephes_subr.h
+src/complex/cephes_subrf.o.d: \
+ /opt/ecos/packages/language/c/libm/current/src/complex/cephes_subrf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /opt/ecos/packages/language/c/libm/current/src/complex/cephes_subrf.h
+src/complex/cexp.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/cexp.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/cexpf.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/cexpf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/clog.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/clog.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/clogf.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/clogf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/cpow.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/cpow.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/cpowf.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/cpowf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/cproj.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/cproj.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /opt/ecos/packages/language/c/libm/current/src/complex/../mathincl/fdlibm.h
+src/complex/cprojf.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/cprojf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /opt/ecos/packages/language/c/libm/current/src/complex/../mathincl/fdlibm.h
+src/complex/csin.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/csin.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /opt/ecos/packages/language/c/libm/current/src/complex/cephes_subr.h
+src/complex/csinf.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/csinf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /opt/ecos/packages/language/c/libm/current/src/complex/cephes_subrf.h
+src/complex/csinh.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/csinh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/csinhf.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/csinhf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/csqrt.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/csqrt.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/csqrtf.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/csqrtf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/ctan.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/ctan.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /opt/ecos/packages/language/c/libm/current/src/complex/cephes_subr.h
+src/complex/ctanf.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/ctanf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h \
+ /opt/ecos/packages/language/c/libm/current/src/complex/cephes_subrf.h
+src/complex/ctanh.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/ctanh.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
+src/complex/ctanhf.o.d: /opt/ecos/packages/language/c/libm/current/src/complex/ctanhf.c \
+ /usr/include/stdc-predef.h \
+ /home/kelvin/kernel-net/install/include/complex.h \
+ /home/kelvin/kernel-net/install/include/math.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/system.h \
+ /home/kelvin/kernel-net/install/include/pkgconf/libm.h \
+ /home/kelvin/kernel-net/install/include/cyg/infra/cyg_type.h \
+ /home/kelvin/kernel-net/install/include/stddef.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/stddef.h \
+ /home/kelvin/kernel-net/install/include/cyg/hal/basetype.h \
+ /home/kelvin/kernel-net/install/include/float.h \
+ /usr/lib/gcc/i586-suse-linux/4.8/include/float.h \
+ /home/kelvin/kernel-net/install/include/sys/ieeefp.h
