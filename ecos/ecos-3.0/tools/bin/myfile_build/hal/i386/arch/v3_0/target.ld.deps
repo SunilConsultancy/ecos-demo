@@ -1,0 +1,6 @@
+/opt/ecos/ecos-3.0/tools/bin/myfile_install/lib/target.ld : \
+  /opt/ecos/ecos-3.0/tools/bin/myfile_install/include/pkgconf/system.h \
+  /opt/ecos/ecos-3.0/tools/bin/myfile_install/include/pkgconf/mlt_i386_pc_ram.ldi \
+  /opt/ecos/ecos-3.0/tools/bin/myfile_install/include/cyg/infra/cyg_type.inc \
+  /opt/ecos/ecos-3.0/tools/bin/myfile_install/include/cyg/hal/basetype.h
+
